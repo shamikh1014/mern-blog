@@ -92,7 +92,7 @@ export default function DashPosts(){
             console.log(error.message);
         }
 
-    }
+    };
 
     return(
 
