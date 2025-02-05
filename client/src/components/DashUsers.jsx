@@ -123,7 +123,7 @@ export default function DashUsers(){
 
                                     <Table.Cell>
                                             
-                                        <img src={user.ProfilePicture} alt={user.username} className='w-10 h-10 object-cover bg-gray-500 rounded-full'/>
+                                        <img src={user.profilePicture} alt={user.username} className='w-10 h-10 object-cover bg-gray-500 rounded-full'/>
 
                                     </Table.Cell>
 
